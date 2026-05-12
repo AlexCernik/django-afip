@@ -28,7 +28,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dependencies = [
-  "cryptography>=3.2,<47",
+  "cryptography>=3.2,<=48",
   "django>=5.2,<6.1",
   "django_renderpdf>=6.0.0,<7.0.0",
   "lxml>=3.4.4,<7.0.0",
